@@ -1,0 +1,25 @@
+{
+  "name": "prediction",
+  "version": "1.0.0",
+  "description": "google cloud prediction api",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/predictions"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "prediction"
+  ],
+  "author": "Deen Aariff",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gcloud": "^0.36.0",
+    "googleapis": "^11.0.0"
+  }
+}
